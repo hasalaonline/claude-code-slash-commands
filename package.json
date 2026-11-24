@@ -1,0 +1,10 @@
+{
+  "name": "claude-code-slash-commands",
+  "version": "1.0.0",
+  "description": "Demo project for five custom Claude Code slash commands",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
